@@ -15,9 +15,6 @@ const Home = () => {
 		<Header />
 		<Content>
 			<Cards />
-			<Cards />
-			<Cards />
-			<Cards />
 		</Content>
 		<Footer />
 	</div>
